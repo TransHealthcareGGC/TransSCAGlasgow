@@ -23,7 +23,15 @@ It is our opinion that this tragic situation is unbecoming of the NHS, a great i
 
 # Proposal
 
-
+We propose that NHSGGC look at the following changes, in order of priority:
+- Approval of medications commonly used, off-label, in gender-affirming care for shared-care agreements as a recognition of patient need. This would support primary care practitioners in caring for their transgender patients with access to appropriate advice. These should include, but not necessarily be limited to:
+  - Estradiol
+  - Testosterone
+  - Cyproterone Acetate
+  - Spironolactone
+  - Decapeptyl
+- Offer training for primary care practitioners on the treatment of transgender patients to address concerns and build clinical expertise.
+- A long-term plan for the introduction of an informed consent model for the treament of transgender patients, following from that fact that trans identities are formally de-psycho-pathologized in ICD-11 which member countries are able to adopt from Janurary 2022. We believe that as the most populous trust in NHS Scotland, GGCNHS has a responsibility to lead from the front on matters of specialist care which this proposal reflects.
 
 # Resources
 
@@ -35,6 +43,7 @@ It is our opinion that this tragic situation is unbecoming of the NHS, a great i
 - [Public Health Scotland - Legislation regarding waiting time targets](https://www.isdscotland.org/Health-Topics/Waiting-Times/Inpatient-Day-Cases-and-Outpatients/)
 - [Sandyford Gender Identity Clinic]((https://www.sandyford.scot/sexual-health-services/gender-identity-service/))
 - [List of Specialists in the Field of Gender Dysphoria - Gender Recognition Secretariat](https://www.gov.uk/government/publications/gender-dysphoria-list-of-specialists-t493)
+- [WHO/Europe brief – transgender health in the context of ICD-11](https://www.euro.who.int/en/health-topics/health-determinants/gender/gender-definitions/whoeurope-brief-transgender-health-in-the-context-of-icd-11)
 
 [GMC]: https://www.gmc-uk.org/ethical-guidance/ethical-hub/trans-healthcare
 [SCA]: https://ggcmedicines.org.uk/shared-care-agreements/
