@@ -41,7 +41,7 @@ We propose that NHSGGC look at the following changes, in order of priority:
 - [LMC newsletter 2019][LMC-2019]
 - [Framework for shared care agreements][SC-framework] (probably out of date?)
 - [Public Health Scotland - Legislation regarding waiting time targets](https://www.isdscotland.org/Health-Topics/Waiting-Times/Inpatient-Day-Cases-and-Outpatients/)
-- [Sandyford Gender Identity Clinic]((https://www.sandyford.scot/sexual-health-services/gender-identity-service/))
+- [Sandyford Gender Identity Clinic](https://www.sandyford.scot/sexual-health-services/gender-identity-service/)
 - [List of Specialists in the Field of Gender Dysphoria - Gender Recognition Secretariat](https://www.gov.uk/government/publications/gender-dysphoria-list-of-specialists-t493)
 - [WHO/Europe brief – transgender health in the context of ICD-11](https://www.euro.who.int/en/health-topics/health-determinants/gender/gender-definitions/whoeurope-brief-transgender-health-in-the-context-of-icd-11)
 
