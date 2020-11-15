@@ -31,7 +31,7 @@ We propose that NHSGGC look at the following changes, in order of priority:
   - Spironolactone
   - Decapeptyl
 - Provision of training for primary care practitioners on the treatment of transgender patients to address concerns and build clinical expertise.
-- A long-term plan for the introduction of an informed consent model for the treament of transgender patients, following from that fact that trans identities are formally de-psycho-pathologized in ICD-11 which member countries are able to adopt from Janurary 2022. We believe that this will not only reduce the diagnostic pressure on the Sandyford, GIC, but that - as the most populous trust in NHS Scotland - GGCNHS has a responsibility to lead from the front on matters of specialist care which this proposal reflects.
+- A long-term plan for the introduction of an informed consent model for the treament of transgender patients, following from that fact that trans identities are formally de-psycho-pathologized in ICD-11 which member countries are able to adopt from Janurary 2022. We believe that this will not only reduce the diagnostic pressure on the Sandyford GIC, but that - as the most populous trust in NHS Scotland - GGCNHS has a responsibility to lead from the front on matters of specialist care which this proposal reflects.
 
 # Resources
 
