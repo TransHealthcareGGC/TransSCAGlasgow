@@ -1,7 +1,6 @@
 # Background
 
-At present, transgender patients in the Glasgow and Greater Clyde NHS(GGCNHS) area must wait a minimum of 3 years to be seen by the Sandyford NHS Gender Identity Clinic, often longer for the commencement of hormone replacement therapy. Not only is the harm caused by this wait substantial, its length is grotesquely in excess of Public Health Scotland maximum wait times:
-> no patient should wait longer than 12 weeks for a new outpatient appointment at a consultant-led clinic. This includes referrals from all sources.
+At present, transgender patients in the Glasgow and Greater Clyde NHS(GGCNHS) area must wait a minimum of 3 years to be seen by the Sandyford NHS Gender Identity Clinic, often longer for the commencement of hormone replacement therapy. Not only is the harm caused by this wait substantial, its length is grotesquely in excess of Public Health Scotland maximum wait times: "no patient should wait longer than 12 weeks for a new outpatient appointment at a consultant-led clinic. This includes referrals from all sources."
 
 Upon discovering this wait, or struggling to cope with declining mental health while waiting, transgender patients frequently resort to two paths of treatment, feeling they have no other choice:
 - Ordering hormone replacement medications from providers abroad and self-administering with no monitoring from a healthcare professional. This path is often referred to as "self-med".
