@@ -8,7 +8,7 @@ Upon discovering this wait, or struggling to cope with declining mental health w
 
 Seeking qualified care privately is expensive - often in the region of £500-750 simply to obtain a diagnosis of gender dysphoria, an initial appointment with a hormone replacement specialist and all requisite (though perhaps not all desirable) blood tests in the first 6 months of treatment. This is an enormous barrier to entry that many in an already stigmatised and deprived group do not have the means to overcome. 
 
-Even if patients can overcome this initial hurdle, often ongoing monitoring becomes unsustainable or a contributing factor to financial vulnerability and declining mental health. Forced cessation of hormone replacement treatment due to external factorsa is, in and of itself,  incredibly dangerous to the mental health and safety of transgender patients.
+Even if patients can overcome this initial hurdle, often ongoing monitoring becomes unsustainable or a contributing factor to financial vulnerability and declining mental health. Forced cessation of hormone replacement treatment due to external factors is, in and of itself,  incredibly dangerous to the mental health and safety of transgender patients.
 
 As such, many patients resort to self-med which comes without the costs for specialist appointments and monitoring. Needless to say, the self-med path also comes with substantial risks given that many of the accessible medications to this path have the potential to develop severe side effects in the absence of specialist monitoring.
 
