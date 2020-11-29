@@ -48,7 +48,7 @@ This leaves transgender patients in GGCNHS in a difficult situation where they m
 - [Ethical guidance on trans helthcare by the GMC][GMC]
 - [Medicines under Shared Care Agreements][SCA]
 - [LMC newsletter 2019][LMC-2019]
-- [Framework for shared care agreements][SC-framework] (probably out of date?)
+- [Framework for shared care agreements][SC-framework]
 - [Public Health Scotland - Legislation regarding waiting time targets][Waiting times]
 - [Sandyford Gender Identity Clinic][Sandy waiting times]
 - [List of Specialists in the Field of Gender Dysphoria - Gender Recognition Secretariat](https://www.gov.uk/government/publications/gender-dysphoria-list-of-specialists-t493)
