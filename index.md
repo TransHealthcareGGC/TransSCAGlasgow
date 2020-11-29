@@ -40,7 +40,7 @@ This enormous barrier is one that many transgender people, already in a stigmati
 Even if patients can overcome this initial hurdle, the ongoing cost of treatment often becomes unsustainable -- particularly in the absence of Shared Care Agreements.
 Forced cessation of hormone replacement treatment due to external factors is, in and of itself,  incredibly dangerous to the mental and physical health of transgender patients. As a result, many transgender patients resort to self-med. This path comes with substantial risks, given that many of the accessible medications have the potential to develop severe side effects in the absence of specialist monitoring.
 
-This leaves transgender patients in GGCNHS in a difficult situation where they must either pay a significant and ongoing financial cost or suffering the excessive waiting times  for an NHS GIC.
+This leaves transgender patients in GGCNHS in a difficult situation where they must either pay a significant and ongoing financial cost; suffer a wait of 3 years without treatment or run the risks of self-administered, grey-market medications.
 
 ## Resources
 
