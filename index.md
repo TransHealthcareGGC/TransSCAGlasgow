@@ -19,8 +19,8 @@ We believe that this change will substantially improve the quality of care recie
 
 # Background
 
-At present, many primary care practitioners within GGCNHS refuse to engage in any gender-affirming care of transgender patients without the advice of a specialist due to a lack of sufficient training.
-Even with the support of a private specialist, GPs often refuse to participate in gender-affirming care because GGCNHS has not approved routine shared care agreements(SCA) for any hormone replacement medications. **This is in direct contravention of the guidelines for transgender care laid out by the GMC**.
+At present, many primary care practitioners within Glasgow and Greater Clyde NHS Trust (GGCNHS) refuse to engage in any gender-affirming care of transgender patients without the advice of a specialist due to a lack of sufficient training.
+Even with the support of a private specialist, GPs often refuse to participate in gender-affirming care because GGCNHS has not approved routine shared care agreements (SCA) for any hormone replacement medications. **This is in direct contravention of the guidelines for transgender care laid out by the GMC**.
 
 At present, transgender patients in the GGCNHS area [must wait a minimum of 3 years][Sandy waiting times] to be seen by the Sandyford NHS Gender Identity Clinic, often even longer for the commencement of hormone replacement therapy.
 Not only is the harm caused by this wait substantial, but its length is also [over Public Health Scotland's maximum wait times][Waiting times]: "no patient should wait longer than 12 weeks for a new outpatient appointment at a consultant-led clinic.
