@@ -19,10 +19,10 @@ We believe that this change will substantially improve the quality of care recie
 
 # Background
 
-At present, many primary care practitioners within NHSGGC refuse to engage in any gender-affirming care of transgender patients without the advice of a specialist due to a lack of sufficient training.
+At present, many primary care practitioners within GGCNHS refuse to engage in any gender-affirming care of transgender patients without the advice of a specialist due to a lack of sufficient training.
 Even with the support of a private specialist, GPs often refuse to participate in gender-affirming care because GGCNHS has not approved routine shared care agreements(SCA) for any hormone replacement medications. **This is in direct contravention of the guidelines for transgender care laid out by the GMC**.
 
-At present, transgender patients in the Glasgow and Greater Clyde NHS (GGCNHS) area [must wait a minimum of 3 years][Sandy waiting times] to be seen by the Sandyford NHS Gender Identity Clinic, often even longer for the commencement of hormone replacement therapy.
+At present, transgender patients in the GGCNHS area [must wait a minimum of 3 years][Sandy waiting times] to be seen by the Sandyford NHS Gender Identity Clinic, often even longer for the commencement of hormone replacement therapy.
 Not only is the harm caused by this wait substantial, but its length is also [over Public Health Scotland's maximum wait times][Waiting times]: "no patient should wait longer than 12 weeks for a new outpatient appointment at a consultant-led clinic.
 This includes referrals from all sources."
 
@@ -36,9 +36,9 @@ The cost of private care is often in the region of £500-750 to obtain a diagnos
 This enormous barrier is one that many transgender people, already in a stigmatised and deprived group, do not have the means to overcome.
 
 Even if patients can overcome this initial hurdle, the ongoing cost of treatment often becomes unsustainable -- particularly in the absence of Shared Care Agreements.
-Forced cessation of hormone replacement treatment due to external factors is, in and of itself,  incredibly dangerous to the mental and physical health of transgender patients. As a result, many transgender patients resort to self-med. This pth comes with substantial risks, given that many of the accessible medications have the potential to develop severe side effects in the absence of specialist monitoring.
+Forced cessation of hormone replacement treatment due to external factors is, in and of itself,  incredibly dangerous to the mental and physical health of transgender patients. As a result, many transgender patients resort to self-med. This path comes with substantial risks, given that many of the accessible medications have the potential to develop severe side effects in the absence of specialist monitoring.
 
-This leaves transgender patients in NHSGGC in a difficult situation where they must either pay a significant and ongoing financial cost or suffering the excessive waiting times  for an NHS GIC.
+This leaves transgender patients in GGCNHS in a difficult situation where they must either pay a significant and ongoing financial cost or suffering the excessive waiting times  for an NHS GIC.
 
 # Resources
 
