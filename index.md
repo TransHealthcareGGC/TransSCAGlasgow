@@ -1,6 +1,7 @@
 ---
 title: Shared Care Agreements for transgender care
 ---
+# Shared Care Agreements for transgender care
 
 Transgender patients in the Glasgow and Greater Clyde NHS Trust (GGCNHS) face a number of difficulties in accessing care:
 - Waiting times for the Sandyford GIC are now so long that they are in [contravention of the Patient Rights (Scotland) Act 2011][Waiting times] and are a source of material harm for patients subjected to them.
@@ -17,7 +18,7 @@ In order to support our GPs in providing the best care for their transgender pat
 
 We believe that this change will substantially improve the quality of care recieved by many transgender patients across GGCNHS and reduce the possible harm that they are exposed to.
 
-# Background
+## Background
 
 At present, many primary care practitioners within Glasgow and Greater Clyde NHS Trust (GGCNHS) refuse to engage in any gender-affirming care of transgender patients without the advice of a specialist due to a lack of sufficient training.
 Even with the support of a private specialist, GPs often refuse to participate in gender-affirming care because GGCNHS has not approved routine shared care agreements (SCA) for any hormone replacement medications. **This is in direct contravention of the guidelines for transgender care laid out by the GMC**.
@@ -40,7 +41,7 @@ Forced cessation of hormone replacement treatment due to external factors is, in
 
 This leaves transgender patients in GGCNHS in a difficult situation where they must either pay a significant and ongoing financial cost or suffering the excessive waiting times  for an NHS GIC.
 
-# Resources
+## Resources
 
 - [Response by NHSGGC to our FOI request][FOI]
 - [Ethical guidance on trans helthcare by the GMC][GMC]
