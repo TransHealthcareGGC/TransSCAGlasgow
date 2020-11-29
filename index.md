@@ -1,6 +1,7 @@
 ---
 title: Shared Care Agreements for transgender care
 ---
+
 # Shared Care Agreements for transgender care
 
 Transgender patients in the Glasgow and Greater Clyde NHS Trust (GGCNHS) face a number of difficulties in accessing care:
